@@ -1,7 +1,12 @@
 # Guess the Number Game
 
 A fun and interactive Java-based number guessing game where players try to guess a randomly generated number within a limited number of attempts across multiple rounds.
+
+
 https://github.com/user-attachments/assets/4eb6a650-8617-4629-9381-63bdd4ffcdb7
+
+
+
 ## Objective
 
 The main objective of this project is to create an engaging number guessing game that:
